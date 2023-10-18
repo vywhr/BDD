@@ -7,4 +7,4 @@ Feature: login
     And user click on login button
    Then  page tiltle should be "GTPL Bank Manager HomePage"
    And  user close browser
-# 
+# #
